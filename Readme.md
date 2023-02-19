@@ -1,16 +1,20 @@
-# Projeto EMS - BI
+# Projeto EMS - BI - 19/02/2023
 
 <h1 align="center">
-https://bi-ems.vercel.app/
-<h6> ☑ Senha para acessar o link acima => "emsbi2022"</h6>
+https://ems-bi-analisede-vendas.vercel.app/
+<h6> Login: Externo@weedevelop.onmicrosoft.com </h6>
+</h6>Senha: ext2023##</h6>
 </h1>
 
-### Tecnologias utilizadas.
-- [x] SQL, M, Dax , JAVA e Python
-- [x] SQL SERVER , POWER QUERY e TALEND
+### Ferramentas:
+
+- [x] Controle de Verão Git, GitHub.
+- [x] Dbeaver como conector ao mysql.
+- [x] SQL e Pyhton como linguagem de tratamento dos dados.
+- [x] PowerBI para Data Viz.
 
 <p align="center">Projeto de visualização de evolução de vendas de medicamentos e acompanhamento de ação de vendas em farmácias</p>
 <div align="center">
-  <img src="https://i.ibb.co/xMwxSCv/init.png" alt="demo" height="500">
+  <img src="https://i.ibb.co/86rPCVX/Screenshot-30.png" alt="demo" height="500">
 </div>
 <hr />
