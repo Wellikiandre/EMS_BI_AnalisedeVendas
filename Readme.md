@@ -9,7 +9,7 @@ https://ems-bi-analisede-vendas.vercel.app/
 ### Ferramentas:
 
 - [x] Controle de Verão Git, GitHub.
-- [x] Dbeaver como conector ao mysql.
+- [x] Banco de dados mysql.
 - [x] SQL e Pyhton como linguagem de tratamento dos dados.
 - [x] PowerBI para Data Viz.
 
